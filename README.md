@@ -6,4 +6,4 @@ Framework for a joint test for triadic closure and triadic protection of ties, b
 simulations - R source code for network simulations\
 functions - functions for parameter estimation and Hotelling T2 test 
 
-**Contact:** Rūta Užupytė - r.uzupyte@gmail.com
+**Contact:** Rūta Juozaitienė(Užupytė) - r.uzupyte@gmail.com
